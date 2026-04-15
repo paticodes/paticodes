@@ -1,158 +1,116 @@
+# ✦ Pati Bravo ✦
+### UX/UI Designer · Front-End Developer
+
 <p align="center">
-  <img src="https://github.com/paticodes/paticodes.github.io/blob/main/assets/images/banner-readme-GitHub.png" width="100%" />
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="150"/>
 </p>
 
-<h1 align="center">Hi, I'm Pati — aka PatiCodes 👋</h1>
-
-<div align="center">
-
-**UX/UI Designer & Front-End Developer**  
-*Specializing in scalable CMS and content-driven platforms*
-
-📍 Montréal · 🌎 FR / EN / ES · 💼 Open to freelance & contract work  
-
-</div>
+<p align="center">
+  <i>Turns complex systems into clear, reliable digital experiences</i>
+</p>
 
 ---
 
-# 🚀 Quick Stats
+## 🎮 Character Card
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=paticodes&show_icons=true&theme=radical&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paticodes&layout=compact&theme=radical&hide_border=true" />
-
-</div>
-
----
-
-# 📌 Featured Work
-
-<div align="center">
-
-<table width="100%">
+<table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%" align="center">
+### ✦ Profile
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=paticodes&repo=Sokabana-game&theme=radical&hide_border=true" width="100%"/>
+<p>
+  <img src="https://img.shields.io/badge/TYPE-UX/UI%20+%20Front--End-1f2937?style=flat-square"/>
+  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-065f46?style=flat-square"/>
+</p>
 
-**🎮 Sokobana Game**  
-10-Level JavaScript Puzzle  
+<p>
+  <img src="https://img.shields.io/badge/ABILITY-Simplifies%20complex%20systems-334155?style=flat-square"/>
+</p>
 
-<a href="https://paticodes.github.io/Sokabana-game/">🚀 Play Now</a>
+<p>
+  <img src="https://img.shields.io/badge/SPECIAL%20MOVE-Scalable%20bilingual%20platforms-4c1d95?style=flat-square"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/BONUS-Illustration%20·%20Mentoring%20·%20Comics-92400e?style=flat-square"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/LOCATION-Montréal%20🇨🇦-374151?style=flat-square"/>
+</p>
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=paticodes&repo=paticodes&theme=radical&hide_border=true" width="100%"/>
+### 👩🏻‍💻 About
 
-**🧩 CMS Platform**  
-53-page nonprofit redesign  
+Trilingual UX/UI designer & front-end developer  
+10 years in design · 2 years in development  
 
-Reusable templates · performance fixes  
+Designs systems that are:
+- easy to use  
+- easy to manage  
+- built to last  
+
+✔ WordPress & CMS ecosystems  
+✔ Web performance & structure  
+✔ Reusable components  
+
+---
+
+### 🌱 Current Quest
+
+- Mastering **React architecture**
+- Exploring **Vibe Coding workflows**
 
 </td>
-
 </tr>
 </table>
 
-</div>
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress"/>
+  <img src="https://img.shields.io/badge/Drupal-0678BE?style=flat-square&logo=drupal"/>
+  <img src="https://img.shields.io/badge/Webflow-4353FF?style=flat-square&logo=webflow"/>
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php"/>
+</p>
 
 ---
 
-# 🛠️ Tech Stack
-
-<div align="center">
-
-### 🌐 Front-End
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-### 🗄️ CMS & Platforms
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=flat&logo=drupal&logoColor=white)
-![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
-
-### ⚙️ Tools
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-
-</div>
-
----
-
-# 🌟 Beyond Code
-
-<div align="center">
-
-<table width="100%">
-<tr>
-
-<td width="33%" align="center">
-
-### 🎓 Mentor  
-
-**ADPList**
-
-</td>
-
-<td width="33%" align="center">
-
-### ✍️ Tech Comics  
-
-Developer storytelling  
-
-</td>
-
-<td width="33%" align="center">
-
-### 📝 Blog  
-
-<a href="https://paticodes.substack.com">
-paticodes.substack.com
-</a>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# 💼 Let's Work Together
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0d1117?style=for-the-badge&logo=vercel)]
-(https://www.patibravo.com)
-
-[![Resume](https://img.shields.io/badge/Resume-Download-0d1117?style=for-the-badge&logo=adobeacrobatreader)]
-(https://drive.google.com/uc?export=download&id=1eTmsfY5bL9fzh4MG6k6Jfd9UKvryl0N5)
-
-[![Email](https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail)]
-(mailto:contact@patibravo.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin)]
-(https://www.linkedin.com/in/patibravo)
-
-</div>
-
----
+## 🌐 Access Portal
 
 <p align="center">
-
-✨ Thanks for visiting — let's build something meaningful.
-
+  <a href="https://www.patibravo.com">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1eTmsfY5bL9fzh4MG6k6Jfd9UKvryl0N5/view">
+    <img src="https://img.shields.io/badge/Resume-374151?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  </a>
+  <a href="mailto:contact@patibravo.com">
+    <img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/patibravo">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
 </p>
+
+---
