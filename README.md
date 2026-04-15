@@ -10,53 +10,8 @@
 </p>
 
 ---
-
-## 🎮 Character Card
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ✦ Profile
-
-<p>
-  <img src="https://img.shields.io/badge/TYPE-UX/UI%20+%20Front--End-1f2937?style=flat-square"/>
-  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-065f46?style=flat-square"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/ABILITY-Simplifies%20complex%20systems-334155?style=flat-square"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/SPECIAL%20MOVE-Scalable%20bilingual%20platforms-4c1d95?style=flat-square"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/BONUS-Illustration%20·%20Mentoring%20·%20Comics-92400e?style=flat-square"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/LOCATION-Montréal%20🇨🇦-374151?style=flat-square"/>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
 ### 👩🏻‍💻 About
-
-Trilingual UX/UI designer & front-end developer  
-10 years in design · 2 years in development  
-
-Designs systems that are:
-- easy to use  
-- easy to manage  
-- built to last  
-
-✔ WordPress & CMS ecosystems  
-✔ Web performance & structure  
-✔ Reusable components  
+Trilingual UX/UI designer and front-end developer with 10 years in web design and 2 in front-end development. I design and maintain systems that are easy to use, easy to manage, and built to last. I’ve supported bilingual WordPress platforms, improved Web Vitals, and streamlined production with reusable components.
 
 ---
 
