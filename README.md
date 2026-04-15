@@ -1,108 +1,158 @@
 <p align="center">
-  <img src="https://github.com/patrihow/patrihow.github.io/blob/main/assets/images/banner-readme-GitHub.png" alt="Patrihow GitHub Banner" width="100%" />
+  <img src="https://github.com/paticodes/paticodes.github.io/blob/main/assets/images/banner-readme-GitHub.png" width="100%" />
 </p>
 
-# Hi there, I’m Pati — aka PatriHow  
-*Front-End Developer · UX/UI Designer · WordPress Specialist*
+<h1 align="center">Hi, I'm Pati — aka PatiCodes 👋</h1>
 
-I’m a **front-end developer and UX/UI designer** based in Montréal, with **7+ years of experience in digital design** and a strong focus on **custom WordPress and CMS-driven websites**.
+<div align="center">
 
-I specialize in bridging **design systems, accessibility, and front-end development** to deliver scalable, maintainable, and user-centered web experiences. My background allows me to collaborate seamlessly with designers, developers, and non-technical teams.
+**UX/UI Designer & Front-End Developer**  
+*Specializing in scalable CMS and content-driven platforms*
 
-I recently completed my specialization in web design and front-end development (October 2025) and finished my professional internship in December 2025. I am now fully focused on front-end and WordPress development projects.
+📍 Montréal · 🌎 FR / EN / ES · 💼 Open to freelance & contract work  
 
----
-
-## 🚀 Professional Experience
-
-### Fondation du Grand Montréal — Freelance Front-End & WordPress Developer  
-**Nov 2025 – Dec 2025 | Montréal, QC** 🔗 [fgmtl.org](https://fgmtl.org/)
-
-- Led full **website redesign** from Figma wireframes to production-ready WordPress implementation  
-- Developed **custom post types and meta boxes**, enabling structured content and editorial autonomy  
-- Implemented a **design system** to ensure visual consistency and maintainability  
-- Used **Elementor Pro** strategically to empower the communications team for independent updates  
-- Re-architected **navigation and content hierarchy**, improving discoverability and accessibility (WCAG 2.1)  
-- Delivered **documentation and training** for internal teams to manage layouts and updates  
-
-### Front-End Web Developer — Internship  
-**Aug 2025 – Oct 2025 | Montréal, QC**  
-
-- Supported modernization of **digital communication platforms** to enhance accessibility and clarity  
-- Built **content structure and CMS workflows** aligned with community-focused mission  
-- Collaborated with cross-functional teams to integrate **UX/UI design into production**  
-
-### QUÉtAL — Web Designer & Communications Coordinator  
-**Mar 2023 – Dec 2023 | Montréal, QC**  
-
-- Redesigned **website interface and architecture**, increasing traffic by 22%  
-- Developed **responsive web visuals** aligned with brand strategy across desktop and mobile  
-- Executed **digital marketing campaigns**, boosting event participation by 30%  
-- Collaborated with teams to **manage project timelines** and deliver high-quality results  
+</div>
 
 ---
 
-### 🔗 More Experience  
-For a full overview of my professional history and achievements, please visit my **LinkedIn**: [Patricia Bravo](https://www.linkedin.com/in/patrihow/)  
+# 🚀 Quick Stats
 
-## 🛠️ Tech Stack  
+<div align="center">
 
-### Front-End
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat) 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat) 
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&logoColor=white&style=flat)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=paticodes&show_icons=true&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paticodes&layout=compact&theme=radical&hide_border=true" />
 
-### Back-End / CMS
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat) 
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat) 
-![REST API](https://img.shields.io/badge/-REST%20API-005571?logo=postman&logoColor=white&style=flat)
-
-### Design & Workflow
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat) 
-![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white&style=flat) 
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=flat)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat) 
-![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat)
+</div>
 
 ---
 
-## ✨ What I Do Best
+# 📌 Featured Work
 
-- Translate **Figma designs and design systems** into clean, accessible, production-ready front-end code.
-- Build **custom WordPress themes and CMS architectures** tailored to real editorial workflows.
-- Design and implement **scalable UI systems** that support long-term growth.
-- Add **motion and interaction** (GSAP, micro-interactions) to enhance storytelling and usability.
-- Act as a bridge between **design, development, and content teams**, ensuring clarity and sustainability.
+<div align="center">
+
+<table width="100%">
+<tr>
+
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=paticodes&repo=Sokabana-game&theme=radical&hide_border=true" width="100%"/>
+
+**🎮 Sokobana Game**  
+10-Level JavaScript Puzzle  
+
+<a href="https://paticodes.github.io/Sokabana-game/">🚀 Play Now</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=paticodes&repo=paticodes&theme=radical&hide_border=true" width="100%"/>
+
+**🧩 CMS Platform**  
+53-page nonprofit redesign  
+
+Reusable templates · performance fixes  
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 📚 Beyond Code
+# 🛠️ Tech Stack
 
-- ✍️ Writing: **Emotional Coder**  
-  https://patrihow.substack.com/  
-  Essays and comics about coding, creativity, burnout, and growth.
+<div align="center">
 
-- 🎨 Comics & Visual Storytelling  
-  Turning debugging disasters and tech-life realities into relatable narratives.
+### 🌐 Front-End
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+### 🗄️ CMS & Platforms
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=flat&logo=drupal&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
+
+### ⚙️ Tools
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+</div>
 
 ---
 
-## 💼 Opportunities
+# 🌟 Beyond Code
 
-Available for **freelance contracts** and **full-time roles** starting **February 2026**, including:
+<div align="center">
 
-- Web Designer & Front-End Integrator
-- Multimedia Integrator / WordPress & CMS Integrator
+<table width="100%">
+<tr>
 
-📬 **Contact:** info@patrihow.com
+<td width="33%" align="center">
+
+### 🎓 Mentor  
+
+**ADPList**
+
+</td>
+
+<td width="33%" align="center">
+
+### ✍️ Tech Comics  
+
+Developer storytelling  
+
+</td>
+
+<td width="33%" align="center">
+
+### 📝 Blog  
+
+<a href="https://paticodes.substack.com">
+paticodes.substack.com
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
 ---
 
-## ☕ Support My Work
+# 💼 Let's Work Together
 
-If you enjoy my comics, writing, or open resources:  
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/patrihow)
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0d1117?style=for-the-badge&logo=vercel)]
+(https://www.patibravo.com)
+
+[![Resume](https://img.shields.io/badge/Resume-Download-0d1117?style=for-the-badge&logo=adobeacrobatreader)]
+(https://drive.google.com/uc?export=download&id=1eTmsfY5bL9fzh4MG6k6Jfd9UKvryl0N5)
+
+[![Email](https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail)]
+(mailto:contact@patibravo.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin)]
+(https://www.linkedin.com/in/patibravo)
+
+</div>
+
+---
+
+<p align="center">
+
+✨ Thanks for visiting — let's build something meaningful.
+
+</p>
